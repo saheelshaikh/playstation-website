@@ -1,38 +1,59 @@
+<h1 align="center">
+    <img src="./assets/svg/logo.svg">
+</h1>
 
-## 🚀 Getting Started
+<div align="center">
+    <img src="https://img.shields.io/github/repo-size/kennedybarros/repsonsive-website-playstation?color=362BA9" />
+    <img src="https://img.shields.io/github/license/kennedybarros/repsonsive-website-playstation?color=362BA9"/>
+</div>
 
-### Prerequisites
-- A modern web browser
-- A local server for better performance (e.g., [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
+<h1 align="center">
+    <img src="./banner.png">
+</h1>
 
-### Running the Project
-1. Clone the repository or download the project files.
-2. Open `index.html` in your browser to view the website.
-3. For dynamic interactions and animations, launch the website using a local server.
+<h3 align="center">You can access the project <a href="https://repsonsive-website-playstation.netlify.app/" target="_blank">Clicking here</a></h3>
 
-### Customization
-- Modify the content in the `HTML` files to suit your brand or theme.
-- Edit `style.min.css` for custom styling.
-- Update `main.js` to enhance functionality or animations.
+<p align="center">Appliction developed to learning effects. The UI in figma can be seen in <a href="https://www.figma.com/file/0Kpr4fo1QTyyhruZDEbCBz/Repsonsive-Website-PlayStation?node-id=1%3A1886" target="_blank">Figma</a> </p>
 
-## 💻 Technologies Used
+---
 
-- **HTML5**: For semantic structure
-- **CSS3**: For styling and layout
-- **JavaScript**: For interactivity
-- **Google Fonts**: Typography enhancements
-- **BoxIcons**: Iconography
-- **GSAP**: Advanced animations and scroll effects
+</br>
 
-## 🖼️ Preview
+# 🚀 Technologies
 
-![Website Preview](https://i.ibb.co/qCvjdFd/cover.png)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ScrollReveal](https://scrollrevealjs.org/)
+- [GSAP](https://greensock.com/gsap/)
+- [FORMSUBMIT](https://formsubmit.co/)
 
-## 🤝 Credits
+---
 
-- **Developer**: Kennedy Barros
-- **Design Inspiration**: PlayStation official branding
+<br/>
 
-## 📝 License
+## 🛠 How to download the project:
 
-This project is for educational purposes and is not affiliated with or endorsed by PlayStation or Sony Corporation.
+```bash
+# Clone the repository
+$ git clone git@github.com:kennedybarros/repsonsive-website-playstation.git
+
+# Enter directory
+$ cd repsonsive-website-playstation
+```
+
+---
+
+<br/>
+
+## 📝 Licença:
+
+This project is under license. see the file [LICENSE](LICENSE.md) for more details.
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Kennedy Barros</a> ✌🏼</p>
